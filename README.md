@@ -133,7 +133,8 @@ int main() {
 
 
 ## OUTPUT
-![ipc shared memory](./img/shm.png)
+![shm](https://github.com/user-attachments/assets/846d49fb-da39-452b-9e3e-f98d7cfcce70)
+
 
 # RESULT:
 The program is executed successfully.
